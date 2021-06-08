@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="lookup-spotprice-1.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lookup_spotprice_1_0_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lookup-spotprice-1.0.jar">
+        <element id="module-output" name="lookup-spotprice-1.0" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../json-simple-1.1.1.jar" />
+    </root>
+  </artifact>
+</component>
